@@ -1,7 +1,0 @@
-challenge,"Context-based search: This allows you to use phrases with similar meanings to the chat contents to find what you're looking for, even if the exact words don't match.","Tagging: You can assign keywords or descriptions to messages or conversations, making them easier to recall and find in future searches.","Advanced Search: This feature lets you set search constraints, like a time window, returning results only from your defined start (X) to end (Y) periods. It also supports logical operators (e.g., AND, OR) for sender names, message content, and keywords, allowing precise and flexible searches.","Multimedia Search: This feature would enable you to search for non-text content, such as images or audio, within your chats","Conversation Retrieval: This feature enables you to access entire conversations for complete context, eliminating the need to piece together unrelated individual messages or segments."
-Not at all useful,0,0,0,0,0
-Slightly useful,25,37,19,30,24
-Moderately useful,122,126,104,128,134
-Very useful,276,237,252,207,273
-Extremely useful,152,140,228,188,140
-Total,575,540,603,553,571
